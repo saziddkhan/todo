@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+}
+
+
+.input {
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(255, 252, 252);
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    width: 200%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.name {
+    color: aqua;
+}
+
